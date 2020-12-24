@@ -1,0 +1,60 @@
+<snippet>
+	<content><![CDATA[
+#include<bits/stdc++.h>
+#define     fastasfuckboi ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0)
+#define     test int t;cin>>t;while(t--)
+#define     REP(i,n) for(int i=0; i<n;i++)
+#define     rep(i,a,b) for(int i=a;i<b;i++)
+#define     mod 1000000007
+#define     mod2 998244353
+#define     ll long long
+#define     ld long double
+#define     int long long
+#define     pb push_back
+#define     mp make_pair
+#define     ii pair<int,int>
+#define     llll pair<ll,ll>
+#define     vi vector<int>
+#define     vll vector<ll>
+#define     vii vector<ii>
+#define     vllll vector<llll>
+#define     f first
+#define     s second
+#define     INF 1000000000
+#define     HINF 1000000000000000
+#define     mem(a,b) memset(a,b,sizeof(a))
+#define     arrin(x,n) int x[n]; for(int o=0;o<n;o++) cin>>x[o]
+#define     arrout(x,n) for(int o=0;o<n;o++) cout<<x[o]<<" "; cout<<endl
+#define     vecin(x,n); vi x; for(int o=0;o<n;o++) {cin>>hool; x.pb(hool);}
+#define     vecout(x,n) for(int o=0;o<n;o++) cout<<x[o]<<" "; cout<<endl
+#define     all(x) x.begin(),x.end()
+#define     endl '\n'
+int hool;
+using namespace std;
+
+template<typename T,typename T1>T amax(T &a,T1 b){if(b>a)a=b;return a;}
+template<typename T,typename T1>T amin(T &a,T1 b){if(b<a)a=b;return a;}
+
+
+void solve(){
+    
+}
+
+signed main()
+{
+    fastasfuckboi;
+
+    int t;
+    //t=1;
+    cin>>t;
+    while(t-->0){
+        solve();
+    }
+    return 0;
+}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>template</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

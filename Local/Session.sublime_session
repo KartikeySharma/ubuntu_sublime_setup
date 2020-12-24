@@ -1,0 +1,701 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3211,
+	"last_window_id": 7,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1016.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/User/c++14.sublime-build",
+							""
+						],
+						[
+							"Packages/User/c++14.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/c++14.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"settings",
+						"FastOlympicCoding: Open Settings"
+					],
+					[
+						"Package Control: enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/kartikey/.config/sublime-text-3/Packages/User/cpp14-template.sublime-snippet",
+				"/home/kartikey/.config/sublime-text-3/Packages/User/maths-euclidgcd.sublime-snippet",
+				"/home/kartikey/.config/sublime-text-3/Packages/User/maths_power_ncr.sublime-snippet",
+				"/home/kartikey/.config/sublime-text-3/Packages/User/c++14.sublime-build",
+				"/home/kartikey/Desktop/cf/test.cpp"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/c++14.sublime-build",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1224.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"b",
+						"b"
+					],
+					[
+						"re",
+						"return"
+					],
+					[
+						"f",
+						"f"
+					],
+					[
+						"t",
+						"t"
+					],
+					[
+						"kada",
+						"kadane_algo\tnamespace_kadane_algorithm"
+					],
+					[
+						"kd",
+						"kadane_algo"
+					],
+					[
+						"max",
+						"maxCircularSum"
+					],
+					[
+						"prin",
+						"print"
+					],
+					[
+						"co",
+						"continue"
+					],
+					[
+						"n",
+						"n"
+					],
+					[
+						"s",
+						"sieve\tmaths-sieve"
+					],
+					[
+						"int",
+						"int"
+					],
+					[
+						"fact",
+						"factorise"
+					],
+					[
+						"prime",
+						"primefact"
+					],
+					[
+						"end",
+						"endl"
+					],
+					[
+						"mod",
+						"mod2"
+					],
+					[
+						"for",
+						"for\tFor Loop"
+					],
+					[
+						"print",
+						"printPascal"
+					],
+					[
+						"li",
+						"listhree"
+					],
+					[
+						"list",
+						"listwo"
+					],
+					[
+						"r",
+						"r"
+					],
+					[
+						"v",
+						"v"
+					],
+					[
+						"sort",
+						"sorte"
+					],
+					[
+						"min",
+						"mini"
+					],
+					[
+						"arr",
+						"arrin"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/kartikey/Desktop/cc/test.cpp",
+					"settings":
+					{
+						"buffer_size": 4425,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/kartikey/Desktop/cc/test2.cpp",
+					"settings":
+					{
+						"buffer_size": 12374,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "Packages/User/c++14.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/User/c++14.sublime-build",
+							""
+						],
+						[
+							"Packages/User/c++14.sublime-build",
+							"Run"
+						]
+					],
+					[
+						"Packages/User/c++14.sublime-build",
+						"Run"
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"rein",
+						"Indentation: Reindent Lines"
+					],
+					[
+						"settings",
+						"FastOlympicCoding: Open Settings"
+					],
+					[
+						"Package Control: enab",
+						"Package Control: Enable Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"reind",
+						"Indentation: Reindent Lines"
+					]
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/kartikey/Desktop/cc/test2.cpp",
+				"/home/kartikey/Desktop/cc/test.cpp",
+				"/home/kartikey/Desktop/cc/1.cpp",
+				"/home/kartikey/Desktop/cc/unusualsol.cpp",
+				"/home/kartikey/catkin_ws/src/example_pkgs/pkg_t2_examples/scripts/node_eg5_adding_obstacle.py",
+				"/home/kartikey/.config/sublime-text-3/Packages/User/struct_bigint.sublime-snippet",
+				"/home/kartikey/.config/sublime-text-3/Packages/User/namespace_kadane_algorithm.sublime-snippet",
+				"/home/kartikey/.config/sublime-text-3/Packages/User/cpp14-template.sublime-snippet",
+				"/home/kartikey/catkin_ws/src/example_pkgs/pkg_t2_examples/scripts/node_eg5_waypoints.py",
+				"/home/kartikey/catkin_ws/src/example_pkgs/pkg_t2_examples/scripts/node_eg_print_tf.py",
+				"/home/kartikey/Desktop/cp/test.cpp",
+				"/home/kartikey/Desktop/cp/chefmono.cpp",
+				"/home/kartikey/Desktop/cp/lol.cpp",
+				"/home/kartikey/Desktop/cp/unusualsol.cpp",
+				"/home/kartikey/Downloads/Telegram Desktop/SCALSUM.cpp",
+				"/home/kartikey/Desktop/cp/motree.cpp",
+				"/home/kartikey/Desktop/cp/a.cpp",
+				"/home/kartikey/Desktop/cp/unusualmy.cpp",
+				"/home/kartikey/Desktop/cp/candysol.cpp",
+				"/home/kartikey/Desktop/cp/candymysol.cpp",
+				"/home/kartikey/Desktop/cf/test.cpp",
+				"/home/kartikey/.config/sublime-text-3/Packages/User/c++14.sublime-build",
+				"/home/kartikey/.config/sublime-text-3/Packages/User/maths-sieve.sublime-snippet",
+				"/home/kartikey/.config/sublime-text-3/Packages/User/maths-euclidgcd.sublime-snippet",
+				"/home/kartikey/.config/sublime-text-3/Packages/User/maths_power_ncr.sublime-snippet"
+			],
+			"find":
+			{
+				"height": 56.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"active",
+					"printn",
+					"show",
+					"for (int i = 1; i <= N; i++)",
+					"MOD",
+					"n",
+					"Segment_Tree",
+					"L",
+					"R",
+					"N",
+					"MOD",
+					"A",
+					"E",
+					"R",
+					"pos2",
+					"fg",
+					"L",
+					"N",
+					"f",
+					"bi",
+					"g",
+					"st",
+					"ans",
+					"}*/\n",
+					"}",
+					"2",
+					"second",
+					"first",
+					"n",
+					"s",
+					"}",
+					"max_ending_here",
+					"max_so_far",
+					";\n",
+					"posn",
+					"temp",
+					"max_count",
+					"get",
+					"lc",
+					"rc",
+					"nd",
+					"val",
+					"ch",
+					"stx",
+					"a",
+					"b",
+					"Node"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"act",
+					"printall",
+					"printn",
+					"rep(i,n)",
+					"mod",
+					"N",
+					"seg_tree",
+					"l",
+					"r",
+					"n",
+					"mod",
+					"arr",
+					"aux",
+					"r",
+					"posn2",
+					"flag",
+					"l",
+					"n",
+					"far",
+					"arr",
+					"vis",
+					"pos",
+					"res",
+					"s",
+					"f",
+					"num",
+					"str",
+					"until",
+					"tillnow",
+					"cur",
+					"posn",
+					"c",
+					"answ",
+					"lcol",
+					"rcol",
+					"ele",
+					"value",
+					"character",
+					"indi",
+					"arr",
+					"barr",
+					"nd"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": true,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/kartikey/Desktop/cc/test.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4425,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3968,
+										3968
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 924.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/kartikey/Desktop/cc/test2.cpp",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 12374,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										12374,
+										12374
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/C++/C++.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				},
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 39.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					],
+					[
+						1,
+						0,
+						2,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					0.938004986809,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 120.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/c++14.sublime-build",
+			"position": "0,0,0,0,0,960,34,1920,1052,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 101.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
